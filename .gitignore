@@ -1,3 +1,12 @@
+# Windows thumbnail db
+Thumbs.db
+
+# IDEA
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+target/
+
 ### Java ###
 *.class
 
